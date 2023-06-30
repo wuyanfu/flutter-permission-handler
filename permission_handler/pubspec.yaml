@@ -24,7 +24,7 @@ dependencies:
   meta: ^1.7.0
   permission_handler_android:
     git: https://github.com/wuyanfu/flutter-permission-handler.git
-    path: permission_handler_android
+      path: permission_handler_android
   permission_handler_apple: ^9.1.1
   permission_handler_windows: ^0.1.3
   permission_handler_platform_interface: ^3.11.0
